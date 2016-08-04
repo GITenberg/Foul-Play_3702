@@ -1,0 +1,47 @@
+_repo: Foul-Play_3702
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+  - agent_name: Boucicault, Dion
+    aliases:
+    - Borcicault, Dion
+    - Bourcicault, Dionysius Lardner
+    - Boursecault, Dion L. (Dion Lardner)
+    - Boursiquot, Dionysus Lardner
+    birthdate: 1820
+    deathdate: 1890
+    gutenberg_agent_id: '1272'
+    url: http://www.gutenberg.org/2009/agents/1272
+    wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
+description: "Foul Play is an 1869 melodramatic or sensation novel by the British\
+  \ writer Charles Reade. In Victorian Britain a clergyman is wrongly convicted of\
+  \ a crime and transported to Australia. He is shipwrecked with an aristocratic woman\
+  \ on the hitherto uncharted \"Godsend Island\" in the South Pacific. Eventually\
+  \ he is rescued and vindicated of his crime.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3702'
+  wikidata: Q5474155
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Forgers -- Fiction'
+- GITenberg
+title: Foul Play
+url: http://www.gutenberg.org/ebooks/3702
+wikipedia:
+- https://en.wikipedia.org/wiki/Foul_Play_(novel)
